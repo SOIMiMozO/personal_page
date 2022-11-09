@@ -14,7 +14,9 @@ body {
 
 
 }
-
+.p {
+    font-size: 4vw;
+}
 /* HEADING */
 
 .heading {
@@ -109,6 +111,9 @@ body {
   align-self: center;
 }
 
+.sm {
+    width: 5%;
+}
 /* CARD BACKGROUNDS */
 
 .card-1 {
