@@ -1,12 +1,12 @@
 body{
     margin: 0;
     text-align: center;
-    font-family: 'Pacifico', sans-serif;
+    font-family: 'Vollkorn', sans-serif;
     background-color: #EAF9F5;
 }
 
 h1 {
-    font-family: 'Anonymous Pro', monospace;
+    font-family: 'Courgette', monospace;
     font-size: 300%;
     margin: 50px auto 0 auto;
     color: #66BFBF;
@@ -14,14 +14,14 @@ h1 {
 }
 
 h2 {
-    font-family: 'Titillium Web', cursive;
-    font-size: 1.5rem;
+    font-family: 'Courgette', monospace;
+    font-size: 1.9rem;
     color: #66BFBF;
     font-weight: normal;
 }
 
 h3 {
-    font-family: 'Titillium Web', cursive;
+    font-family: 'Play', monospace;
     color: #11999E;
 }
 
@@ -46,10 +46,12 @@ hr {
 
 .middle-container {
 
+
 }
 
 .bottom-container {
     background-color: #66BFBF;
+    font-family: 'Courgette', monospace;
 
 }
 
@@ -92,6 +94,12 @@ hr {
 
 .allrightsreserved {
     color: #EAF6F6;
+    font-size: 0.8rem;
+}
+
+.footer-link {
+    color: #EAF6F6;
+    font-size: 1.1rem;
 }
 
 .contact-me {
