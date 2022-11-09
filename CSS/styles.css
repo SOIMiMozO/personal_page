@@ -77,7 +77,7 @@ hr {
     width: 50%;
     margin: 100px auto 100px auto;
     text-align: left;
-    line-height: 2;
+    line-height: 1;
 }
 
 .skill-image-left {
@@ -87,7 +87,7 @@ hr {
 }
 
 .skill-description-left{
-    font-family: 'Vollkorn', sans-serif;
+
 }
 
 .skill-image-right {
