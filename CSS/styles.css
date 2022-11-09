@@ -86,6 +86,10 @@ hr {
     margin-right: 30px;
 }
 
+.skill-description-left{
+    font-family: 'Vollkorn', sans-serif;
+}
+
 .skill-image-right {
     width: 25%;
     float: right;
