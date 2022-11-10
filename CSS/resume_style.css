@@ -22,13 +22,17 @@ h2 {
   font-size: 3em;
 }
 
+sm {
+    font-size: 1.2em;
+}
+
+
 /* CARDS */
 
 .cards {
-  font-size: 1.2em;
   display: flex;
   flex-wrap: wrap;
-
+  justify-content: space-between;
 }
 
 .card {
@@ -91,10 +95,6 @@ h2 {
 .card__apply {
   grid-row: 4/5;
   align-self: center;
-}
-
-.sm {
-    width: 10%;
 }
 
 .file_download {
