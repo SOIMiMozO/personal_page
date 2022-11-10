@@ -14,38 +14,12 @@ body {
 
 
 }
-.p {
-    font-size: 12px;
-    font-size: 3vw;
+p {
+   font-size: 1.2em;
 }
 
-.h2 {
-  font-size: 16px;
-  font-size: 5vw;
-}
-/* HEADING */
-
-.heading {
-  text-align: center;
-}
-
-.heading__title {
-  font-weight: 600;
-}
-
-.heading__credits {
-  margin: 10px 0px;
-  color: #888888;
-  font-size: 25px;
-  transition: all 0.5s;
-}
-
-.heading__link {
-  text-decoration: none;
-}
-
-.heading__credits .heading__link {
-  color: inherit;
+h2 {
+  font-size: 2em;
 }
 
 /* CARDS */
@@ -124,7 +98,7 @@ body {
 
 .file_download {
   font-size: 8px;
-  font-size: 1.5vw;
+  font-size: 2em;
 }
 
 .back {
