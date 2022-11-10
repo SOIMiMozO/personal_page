@@ -15,11 +15,11 @@ body {
 
 }
 p {
-   font-size: 1.2em;
+   font-size: 1.3vw;
 }
 
 h2 {
-  font-size: 3em;
+  font-size: 3vw;
 }
 
 sm {
@@ -36,6 +36,7 @@ sm {
 }
 
 .card {
+  font-size: 1.2em;
   margin: 10px;
   padding: 10px;
   width: 100%;
@@ -99,12 +100,12 @@ sm {
 
 .file_download {
   font-size: 16px;
-  font-size: 2em;
+  font-size: 3vw;
 }
 
 .back {
   font-size: 16px;
-  font-size: 2em;
+  font-size: 3vw;
 }
 /* CARD BACKGROUNDS */
 
