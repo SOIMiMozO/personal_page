@@ -19,13 +19,13 @@ p {
 }
 
 h2 {
-  font-size: 2em;
+  font-size: 3em;
 }
 
 /* CARDS */
 
 .cards {
-  display: flex;
+  
   flex-wrap: wrap;
   justify-content: space-between;
 }
